@@ -1,4 +1,4 @@
-# AI-Powered Network Security QE Platform
+# AI-Driven Validation & Assurance Platform
 
 A Python-based **Quality Engineering platform** demonstrating AI-assisted testing, network security validation, API automation, risk-based testing, automated quality gates, and CI/CD practices for a cloud-native security application.
 
